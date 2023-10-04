@@ -35,7 +35,10 @@
 <br><br> 
 
 
-![Squinting Face with Tongue](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/8207a9c1-28a7-429b-bff6-9bb88a7bb5c5)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
 **DepasqualeAndrea/DepasqualeAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
