@@ -16,3 +16,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align="center">
+   <h2>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1&pause=10000000000000&color=E46AF8D2&center=true&vCenter=true&repeat=false&width=435&lines=🐍+My+Contributions+🐍" alt="Typing SVG" />
+    </h2>
+  <br>
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
+  <br/><br/><br/>
+</div>
