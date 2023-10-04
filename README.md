@@ -8,13 +8,15 @@
 
 ### Competenze 
 <div align="center">
-# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; 
+# <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+![Disguised Face](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/ae36b388-8c8d-4ff9-bfe8-94794e6f513e) &nbsp; &nbsp;![Squinting Face with Tongue](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/a626783e-b662-4216-b6eb-ab4c12ba7c64)
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
