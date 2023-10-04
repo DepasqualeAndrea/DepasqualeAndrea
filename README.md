@@ -1,7 +1,4 @@
  # De Pasquale Andrea
-![128024931](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/e447ece7-fe55-4614-bd17-a1e04630e9df)
-
-
 -------------------------------------------------------------------------------------------------------------------------
 
 ## Full stack web developer
@@ -12,12 +9,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
  
 </div>
-
-![Disguised Face](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/ae36b388-8c8d-4ff9-bfe8-94794e6f513e) &nbsp; &nbsp;![Squinting Face with Tongue](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/a626783e-b662-4216-b6eb-ab4c12ba7c64)
-
-
-![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/7d7bf889-3677-48d3-abbf-3aff4de29ccc)
-
 ------------------------------------------------------------------------------------------------------------------------------
 
 ### Competenze
@@ -34,7 +25,16 @@
 </div>
 <br><br> 
 
-
+<div align="center">
+   <h2>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1&pause=10000000000000&color=E46AF8D2&center=true&vCenter=true&repeat=false&width=435&lines=🐍+My+Contributions+🐍" alt="Typing SVG" />
+    </h2>
+  <br>
+ 
+  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ 
+  <br/><br/><br/>
+</div>
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------
@@ -54,13 +54,3 @@ Here are some ideas to get you started:
 
 
 
-<div align="center">
-   <h2>
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=1&pause=10000000000000&color=E46AF8D2&center=true&vCenter=true&repeat=false&width=435&lines=🐍+My+Contributions+🐍" alt="Typing SVG" />
-    </h2>
-  <br>
- 
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
- 
-  <br/><br/><br/>
-</div>
