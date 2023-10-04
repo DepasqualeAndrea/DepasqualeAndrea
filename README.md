@@ -6,7 +6,6 @@
 
 ## Full stack web developer
 
-### Competenze 
 <div align="center">
 # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; GIFs For Readme &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
@@ -17,10 +16,11 @@
 ![Disguised Face](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/ae36b388-8c8d-4ff9-bfe8-94794e6f513e) &nbsp; &nbsp;![Squinting Face with Tongue](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/a626783e-b662-4216-b6eb-ab4c12ba7c64)
 
 
+![240304586-d48893bd-0757-481c-8d7e-ba3e163feae7](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/7d7bf889-3677-48d3-abbf-3aff4de29ccc)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
-
+### Competenze
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
@@ -34,22 +34,22 @@
 </div>
 <br><br> 
 
-<!--
+
 ![Squinting Face with Tongue](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/8207a9c1-28a7-429b-bff6-9bb88a7bb5c5)
 **DepasqualeAndrea/DepasqualeAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Social media App
+- 🌱 I’m currently learning React Java
+- 👯 I’m looking to collaborate on Someone 
 - 🤔 I’m looking for help with ...![Disguised Face](https://github.com/DepasqualeAndrea/DepasqualeAndrea/assets/128024931/04f46a8b-ddaf-4875-8cb4-24fe3904c4ff)
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about Everything you need
+- 📫 How to reach me: andre.dep1994@gmail.com
+- 😄 Pronouns: Andrea De Pasquale
+
+
 
 <div align="center">
    <h2>
