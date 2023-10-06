@@ -28,14 +28,25 @@
 <div>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
 &nbsp;   
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;   
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>;   
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+       
+   
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 **DepasqualeAndrea/DepasqualeAndrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
