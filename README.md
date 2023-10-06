@@ -28,20 +28,20 @@
 <div>   
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>
 &nbsp;   
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/>;   
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>   
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="45" height="45"/> &nbsp;  
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/> &nbsp;  
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="45" height="45"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="Angular" width="45" height="45"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="45" height="45"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" **alt="canva" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" **alt="git" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" **alt="jquery" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="woocommerce" **alt="woocommerce" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="Angular" width="45" height="45"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="45" height="45"/> &nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" **alt="canva" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" **alt="git" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" **alt="jquery" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="45" height="45"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="woocommerce" **alt="woocommerce" width="45" height="45"/>&nbsp;
 </div>
        
    
