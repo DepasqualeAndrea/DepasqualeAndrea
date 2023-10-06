@@ -33,18 +33,17 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="canva" **alt="canva" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="firebase" **alt="firebase" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" **alt="github" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" **alt="git" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" **alt="java" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jquery" **alt="jquery" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" **alt="sass" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" **alt="vscode" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" **alt="wordpress" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg" title="woocommerce" **alt="woocommerce" width="40" height="40"/>
+</div>
        
    
 ---------------------------------------------------------------------------------------------------------------------------------------------------
